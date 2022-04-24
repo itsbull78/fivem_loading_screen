@@ -1,0 +1,1 @@
+drag a photo in img rename it logo-light.png
